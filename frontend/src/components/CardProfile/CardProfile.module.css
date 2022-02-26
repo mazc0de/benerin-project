@@ -1,0 +1,57 @@
+.cardProfile {
+    position: relative;
+}
+
+.imgProfile {
+    position: relative;
+    width: 109px;
+    height: 109px;
+}
+
+.iconSetting {
+    width: 17px;
+    height: 17px;
+}
+
+.textName {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 132%;
+    text-transform: capitalize;
+}
+
+.textLocation {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 132%;
+    text-transform: capitalize;
+}
+
+.textPhone {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 132%;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.textHistory {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 132%;
+    text-decoration-line: underline;
+    text-transform: lowercase;
+    color: #51AAFD;
+}
+
+.textHeader {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 132%;
+    text-transform: capitalize;
+}

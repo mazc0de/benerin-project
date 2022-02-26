@@ -1,0 +1,15 @@
+.jumbotron {
+  background-image: linear-gradient(to top, rgba(27, 27, 27, 0.52), rgba(54, 54, 54, 0.73)), url("../../assets/images/bg/car-dashboard.jpg");
+  background-size: cover;
+  height: 13rem;
+  position: relative;
+}
+
+.jumbotron span {
+  font-size: 1.5rem;
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+}

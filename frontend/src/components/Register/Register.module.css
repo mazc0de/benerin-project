@@ -1,0 +1,39 @@
+.register_page {
+    background: linear-gradient(to top, rgba(51, 51, 51, 0.9), rgba(168, 168, 168, 0.1)), url(../../assets/images/bg/workshop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.register_card {
+    width: 30rem !important;
+    padding: 1.5rem;
+    border-radius: 5px;
+}
+
+.button_google {
+    background-color: #009bd8;
+}
+.button_google:hover {
+    background-color: #1ba1d6;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .register_card {
+        width: 23rem !important;
+    }
+}
+@media screen and (min-device-width: 481px) and (max-device-width: 768px) {
+    .register_card {
+        width: 28rem !important;
+    }
+}
+@media screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+    .register_card {
+        width: 33rem !important;
+    }
+}
+/* @media screen and (min-device-width: 1025px) and (max-device-width: 1200px) {
+  .register_card {
+    width: 35rem !important;
+  }
+} */

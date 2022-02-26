@@ -1,0 +1,16 @@
+.button_submit {
+    transition: 0.3s;
+    color: #fff;
+    width: 100%;
+    border-radius: 20px;
+    background-color: #ce6606;
+    border: #ce6606;
+}
+
+.button_submit:hover {
+    background-color: #af5500 !important;
+}
+.button_submit:active {
+    background-color: #ce6606 !important;
+    border: #ce6606;
+}

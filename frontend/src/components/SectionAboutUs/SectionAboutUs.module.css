@@ -1,0 +1,62 @@
+.sectionPadding {
+  padding: 5rem 0;
+  background: #f6f6f6;
+}
+
+.sectionTitle {
+  margin-bottom: 60px;
+}
+
+.sectionTitle h2 {
+  font-size: 40px;
+  color: #2666cf;
+  font-weight: 700;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.sectionTitle h2 span {
+  color: var(--main-color);
+}
+
+.img_workshop {
+  width: 30rem;
+  box-shadow: 10px 10px 5px #ccc;
+}
+/* CSS CARD PROMO */
+/* 
+.cardBox {
+  width: 367px;
+  margin: 15px 0;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-top: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: 0.4s;
+}
+
+.cardTitle {
+  text-align: center;
+  font-size: 25px;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.cardText {
+  text-align: center;
+  color: #b2bec3;
+  padding: 0 8px;
+  font-weight: 400;
+  text-align: center;
+  margin: 5px;
+}
+
+.textPrice {
+  font-size: 20px;
+  text-align: center;
+  color: #222f3e;
+  font-weight: bolder;
+} */

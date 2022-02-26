@@ -1,0 +1,20 @@
+.sectionPadding {
+  padding: 5rem 0;
+  background: #edf5ff;
+}
+
+.sectionTitle {
+  margin-bottom: 60px;
+}
+
+.sectionTitle h2 {
+  font-size: 40px;
+  color: #2666cf;
+  font-weight: 700;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.sectionTitle h2 span {
+  color: var(--main-color);
+}

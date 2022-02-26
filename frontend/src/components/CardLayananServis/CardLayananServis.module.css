@@ -1,0 +1,55 @@
+.singleBox {
+  margin: 15px 0;
+  padding: 50px;
+  box-shadow: var(--shadow-black-300);
+  border-radius: 20px;
+  text-align: center;
+  height: 280px;
+  background: #f9f7f7;
+  position: relative;
+}
+
+.imgCard {
+  width: 171px;
+  position: relative;
+  padding: 15px;
+}
+
+.cardText {
+  margin: 2px;
+  color: #2666cf;
+  font-weight: bolder;
+  text-transform: capitalize;
+}
+
+@media screen and (max-width: 980px) {
+  .singleBox {
+    height: 280px;
+    position: relative;
+  }
+  .imgCard {
+    width: 150px;
+  }
+  .cardText {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .singleBox {
+    height: 280px;
+    position: relative;
+  }
+  .cardText {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .singleBox {
+    position: relative;
+  }
+  .cardText {
+    font-size: 20px;
+  }
+}

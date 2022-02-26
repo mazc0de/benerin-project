@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #0a66c2;
+}
+
+.navLink {
+  font-weight: 600;
+}
+/* .navbar {
+  position: ;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+} */
+
+a {
+  text-decoration: none;
+}
+
+.nav_link_text:hover {
+  color: rgb(201, 201, 201) !important;
+  /* border-bottom: 2px solid #000; */
+  transition: 0.3s;
+}
